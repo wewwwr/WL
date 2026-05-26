@@ -1,4 +1,7 @@
 # Auto-generated Shadowrocket Whitelist (DIRECT)
+DEST-PORT,25
+DEST-PORT,465
+DEST-PORT,587
 DOMAIN-SUFFIX, yoomoney.ru
 DOMAIN-SUFFIX,00.img.avito.st
 DOMAIN-SUFFIX,01.img.avito.st
