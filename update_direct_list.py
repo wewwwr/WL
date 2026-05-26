@@ -10,7 +10,7 @@ urls = [
 # Твои ручные домены, которые нужно пустить НАПРЯМУЮ (DIRECT)
 combined_rules = {
     "DOMAIN-SUFFIX, yoomoney.ru",
-    "DOMAIN-SUFFIX, yoomoney.ru",
+    "DOMAIN-SUFFIX, tbank.ru",
     "DEST-PORT,25",
     "DEST-PORT,465",
     "DEST-PORT,587"
