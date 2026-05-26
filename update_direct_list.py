@@ -10,7 +10,10 @@ urls = [
 # Твои ручные домены, которые нужно пустить НАПРЯМУЮ (DIRECT)
 combined_rules = {
     "DOMAIN-SUFFIX, yoomoney.ru",
-    "DOMAIN-SUFFIX, yoomoney.ru"
+    "DOMAIN-SUFFIX, yoomoney.ru",
+    "DEST-PORT,25",
+    "DEST-PORT,465",
+    "DEST-PORT,587"
 }
 
 # СПИСОК ИСКЛЮЧЕНИЙ: впиши сюда домены, которые НЕ НАДО пускать напрямую (удалить из белого списка)
