@@ -11,6 +11,7 @@ urls = [
 combined_rules = {
     "DOMAIN-SUFFIX, yoomoney.ru",
     "DOMAIN-SUFFIX, tbank.ru",
+    "DOMAIN-SUFFIX, oneme.ru",
     "DEST-PORT,25",
     "DEST-PORT,465",
     "DEST-PORT,587"
